@@ -80,6 +80,7 @@ class Jogo:
       print("\nParabéns, você venceu a batalha!")
     else:
       print("\nVocê foi derrotado!")
+      
 
 # Criar instancia do jogo e iniciar batalha
 jogo = Jogo()
